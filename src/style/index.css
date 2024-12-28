@@ -1,5 +1,11 @@
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  --back-red: #DD6161;
+  --selected-red: #E3B7B7;
+  --back-gray: #F7F7F7;
+  --light-blue: #6FB0FF;
+  --light-green: #5ED234;
+  --light-yellow: #FFC800;
 }
 
 body {
@@ -8,3 +14,11 @@ body {
   min-height: 100vh;
 }
 
+a{
+  text-decoration: none;
+  color: black;
+}
+
+p{
+  margin: 0;
+}

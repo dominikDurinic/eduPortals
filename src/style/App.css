@@ -1,9 +1,32 @@
 main{
     width: 100vw;
     display: flex;
+    flex-direction: column;
+    align-items: center;
     justify-content: center;
 }
 
 .main-content{
-    width: 1000px;
+    width: 1300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.gray-content-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+    width: 100%;
+    background-color: var(--back-gray);
+}
+
+.gray-text-content{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+
+.text-bold{
+    font-weight: bold;
 }

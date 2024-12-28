@@ -1,0 +1,23 @@
+[
+    {
+        "name":"Priručnik",
+        "description":"Informirajte se o važnosti dijeljenja znanja te besplatno preuzmite tekstualnu verziju priručnika za odabir edukacijskih portala ",
+        "image":"/images/prirucnik.png",
+        "link":"/about",
+        "color":"var(--light-blue)"
+    },
+    {
+        "name":"Edu Portali",
+        "description":"Pregledajte željeni edukacijski portal te istražite njegove funkcionalnosti kroz jednostavne video tutorijale.",
+        "image":"/images/platforme.png",
+        "link":"/eduportals",
+        "color":"var(--light-green)"
+    },
+    {
+        "name":"Prijedlog",
+        "description":"Iskažite vlastite preference kroz vrlo jednostavni kviz te provjerite koji edukacijski portal Vama odgovara.",
+        "image":"/images/prijedlog.png",
+        "link":"/decision",
+        "color":"var(--light-yellow)"
+    }
+]

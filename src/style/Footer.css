@@ -1,0 +1,21 @@
+.footer-container{
+    display: flex;
+    justify-content: center;
+    background-color: var(--back-red);
+}
+
+.footer-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    padding: 10px 10px;
+}
+
+.footer-div > p{
+    color: white;
+}
+
+.logo-footer{
+    width: 60%;
+}
