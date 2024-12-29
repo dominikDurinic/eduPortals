@@ -3,7 +3,7 @@ import "../style/Footer.css";
 function Footer() {
   return (
     <div className="footer-container">
-      <div className="main-content footer-div">
+      <div className="footer-div">
         <p>Dominik Đurinić</p>
         <a href="/">
           <img src="/images/logo3.png" alt="logo" className="logo-footer" />

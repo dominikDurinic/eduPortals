@@ -1,0 +1,81 @@
+.about-img{
+    width: 300px;
+    height: auto;
+}
+
+.reasons-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+}
+
+.reasons-list{
+    font-weight: bold;
+
+}
+
+.about-guide-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+}
+
+.about-div{
+    display: flex;
+    width: 100%;
+    justify-content: end;
+    min-height: 400px;
+}
+
+.download-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 20px 0px;
+}
+
+.prirucnik-img{
+    width: 300px;
+}
+
+.download-button{
+    border: none;
+    border-radius: 10px;
+    background-color: #BBBABA ;
+    color: black;
+    width: 100px;
+    padding: 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    
+}
+
+.download-button:hover{
+    background-color: #D9D9D9;
+}
+
+.download-icon{
+    width: 12px;
+}
+
+@media only screen and (max-width: 1350px) {
+    .about-guide-div{
+        width: 90%;
+    }
+
+    .about-div{
+        justify-content: center;
+    }
+
+    .download-div{
+        width: 90%;
+    }
+}

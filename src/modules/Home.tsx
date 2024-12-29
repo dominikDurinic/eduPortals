@@ -3,6 +3,7 @@ import Header from "../components/Header";
 import "../style/Home.css";
 import data from "../../data/home.json";
 import { useState } from "react";
+import LogoBar from "../components/LogoBar";
 
 interface HomeData {
   name: string;
@@ -68,6 +69,9 @@ function Home() {
               ))}
             </div>
           </div>
+        </div>
+        <div className="main-content">
+          <LogoBar />
         </div>
       </main>
       <Footer />

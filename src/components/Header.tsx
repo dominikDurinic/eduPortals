@@ -13,7 +13,7 @@ function Header(props: { current: string }) {
 
   return (
     <div className="header-container">
-      <div className="main-content header-div">
+      <div className="header-div">
         <a href="/">
           <img src="/images/logo.png" alt="logo" className="logo-header" />
         </a>
