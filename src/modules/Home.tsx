@@ -20,7 +20,7 @@ function Home() {
 
   return (
     <>
-      <Header current="" />
+      <Header current="home" />
       <main>
         <div className="gray-content-div">
           <div className="main-content">

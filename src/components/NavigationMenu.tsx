@@ -1,6 +1,11 @@
 function NavigationMenu() {
   return (
     <div className="navigationMenu-container">
+      <a href="/" className="nav-a">
+        <div className="navMenu-div">
+          <p className="navigation">Početna</p>
+        </div>
+      </a>
       <a href="/about" className="nav-a">
         <div className="navMenu-div">
           <p className="navigation">O nama</p>

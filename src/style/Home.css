@@ -57,6 +57,7 @@
 .logoBar{
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
     border-top: 2px solid var(--back-gray);
     border-bottom: 2px solid var(--back-gray);
     width: 100%;
@@ -67,7 +68,7 @@
 
 .logoBar-img{
     width: 100px;
-    height: auto;
+    height: min-content;
     opacity: 0.5;
 }
 

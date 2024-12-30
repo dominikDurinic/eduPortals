@@ -4,6 +4,7 @@ import { useWindowSizeContext } from "../context/WindowSizeContext";
 import NavigationMenu from "./NavigationMenu";
 
 function Header(props: { current: string }) {
+  const [home, setHome] = useState(false);
   const [about, setAbout] = useState(false);
   const [eduPortals, setEduPortals] = useState(false);
   const [decision, setDecision] = useState(false);
@@ -38,6 +39,23 @@ function Header(props: { current: string }) {
           </>
         ) : (
           <div className="navigation-div">
+            <a href="/">
+              <div
+                className="nav-div"
+                onMouseOver={() => setHome(true)}
+                onMouseOut={() => setHome(false)}
+              >
+                <p className="navigation">Početna</p>
+
+                <div
+                  className="stick-white"
+                  style={{
+                    visibility:
+                      home || props.current == "home" ? "visible" : "hidden",
+                  }}
+                ></div>
+              </div>
+            </a>
             <a href="/about">
               <div
                 className="nav-div"

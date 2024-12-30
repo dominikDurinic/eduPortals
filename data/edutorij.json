@@ -2,25 +2,27 @@
     {
         "id":1,
         "name":"O platformi",
-        "description":"Hrvatska platforma...",
+        "description":["Hrvatska platforma...", "CARNET ju izradio...ndsfhsdjkf sdfksjfs djygfjkjgdfjgl jkdjlkgjdkljgf dsvdsf ds dfs fdsfdfdfdfdf  edre efefeff  fgr g"],
         "video":""
     },
     {
         "id":2,
         "name":"Prednosti i nedostaci",
-        "description":"Hrvatska platforma...",
+        "description":[""],
+        "pros":["Korištenje usluga web platforme je u potpunosti besplatno","Mogućnost objave sadržaja na hrvatskom jeziku","Jednostavna objava materijala u nekoliko koraka u obliku obrasca","Promjena vidljivosti sadržaja- privatno ili javno"],
+        "cons":["Web platforma je u .hr domeni i prvenstveno namijenjena hrvatskoj obrazovnoj sceni","Nužna prijava putem AAI@EduHr ili sustava e-Građani za objavu i pristup sadržajima","Neobavezna recenzija sadržaja- nepostojanje stručne ocjene"],
         "video":""
     },
     {
         "id":3,
-        "name":"Logiranje",
-        "description":"Hrvatska platforma...",
+        "name":"Prijava",
+        "description":["Hrvatska platforma..."],
         "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
     },
     {
         "id":4,
         "name":"Objava",
-        "description":"Hrvatska platforma...",
+        "description":["Hrvatska platforma..."],
         "video":""
     }
 ]

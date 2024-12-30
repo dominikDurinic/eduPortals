@@ -1,6 +1,7 @@
 .tutorial-content{
     width: 1300px;
     display: flex;
+    padding: 20px 0px;
 }
 
 .sidebar-container{
@@ -15,7 +16,7 @@
     flex-direction: column;
     align-items: center;
     width: 100%;
-    height: calc(100vh - 150px - 70px - 156px);
+    height: calc(100vh - 150px - 70px - 140px);
     background-color: var(--back-red);
     overflow: auto;
 }
@@ -81,19 +82,21 @@
 
 .img-logo-div{
     width: 100%;
+    height: 100px;
     display: flex;
     justify-content: center;
+    align-items: center;
     background-color: white;
-    padding: 20px 0px;
 }
 
 .logo-img-sidebar{
     width: 200px;
+    height: min-content;
 }
 
 .sidebar-heading-div{
     width: 100%;
-    padding: 20px 0px;
+    height: 60px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -142,7 +145,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 40px;
+    padding: 40px 0px;
     gap: 20px;
 }
 
@@ -158,3 +161,105 @@
     border: none;
 }
 
+.pros-cons-table{
+    width: 60%;
+}
+
+.pros-cons-table, .pros-cons-table > tbody > tr > td{
+    border: 2px solid white;
+    border-collapse: collapse;
+}
+
+.pros-th{
+    background-color: #89D76C;
+}
+
+.pros-table{
+    border-color: #89D76C;
+}
+
+.cons-table{
+    border-color: #ED7070;
+}
+
+.cons-th{
+    background-color: #ED7070;  
+}
+
+.pros-cons-table > tbody > tr > td,.pros-th, .cons-th{
+    padding: 10px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.pros-cons-img{
+    width: 10px;
+}
+
+.pro-con-p{
+    width: 80%;
+}
+
+.guide-p{
+    width: 80%;
+}
+
+.sidebar-menu{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--back-red);
+    cursor: pointer;
+    color: white;
+    gap: 20px;
+    font-weight: bold;
+}
+
+.sidebar-menu > img{
+    width: 20px;
+}
+
+@media only screen and (max-width: 1300px) {
+    .tutorial-content{
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+    .sidebar-container{
+        width: 100%;
+    }
+    .side-bar-div{
+        height: auto;
+        position: absolute;
+        top: 330px;
+        z-index: 2;
+    }
+    .tutorial-content-div{
+        width: 100%;
+    }
+    .nav-tut-button{
+        width: fit-content;
+        padding: 10px;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .pros-cons-table{
+        width: 80%;
+    }
+
+    .video-div{
+        width: 600px;
+        height: 300px;
+    }
+}
+
+@media only screen and (max-width: 650px) {
+    .video-div{
+        width: 350px;
+        height: 200px;
+    }
+}

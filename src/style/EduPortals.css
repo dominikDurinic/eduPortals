@@ -6,7 +6,7 @@
     align-items: center;
     gap: 40px;
     min-height: calc(100vh - 150px - 70px);
-    padding: 20px 0px;
+    
 }
 
 .portals-btns-div{
@@ -43,5 +43,13 @@
 @media only screen and (max-width: 1350px) {
     .portal-btn{
         height: 90px;
+    }
+
+    
+}
+
+@media only screen and (max-width: 600px) {
+    .portals-btns-container{
+        padding: 20px 0px;
     }
 }
