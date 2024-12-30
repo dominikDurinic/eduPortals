@@ -6,6 +6,7 @@
     align-items: center;
     gap: 40px;
     min-height: calc(100vh - 150px - 70px);
+    padding: 20px 0px;
 }
 
 .portals-btns-div{
@@ -14,6 +15,7 @@
     justify-content: center;
     flex-wrap: wrap;
     gap: 20px;
+    
 }
 
 .portal-btn{

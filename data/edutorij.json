@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"O platformi",
+        "description":"Hrvatska platforma...",
+        "video":""
+    },
+    {
+        "id":2,
+        "name":"Prednosti i nedostaci",
+        "description":"Hrvatska platforma...",
+        "video":""
+    },
+    {
+        "id":3,
+        "name":"Logiranje",
+        "description":"Hrvatska platforma...",
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":4,
+        "name":"Objava",
+        "description":"Hrvatska platforma...",
+        "video":""
+    }
+]

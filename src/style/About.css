@@ -37,6 +37,7 @@
     align-items: center;
     width: 100%;
     padding: 20px 0px;
+    gap: 20px;
 }
 
 .prirucnik-img{
@@ -46,7 +47,7 @@
 .download-button{
     border: none;
     border-radius: 10px;
-    background-color: #BBBABA ;
+    background-color: #c5c3c3 ;
     color: black;
     width: 100px;
     padding: 10px;

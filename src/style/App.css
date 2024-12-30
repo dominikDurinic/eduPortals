@@ -31,6 +31,10 @@ main{
     font-weight: bold;
 }
 
+.gray-div{
+    background-color: var(--back-gray);
+}
+
 @media only screen and (max-width: 1350px) {
     .main-content{
         width: 100%;
@@ -38,10 +42,11 @@ main{
         justify-content: center;
         align-items: center;
         text-align: center;
-        padding: 20px 0px;
+        
     }
 
     .gray-text-content{
         width: 90%;
+        padding: 20px 0px;
     }
 }

@@ -22,7 +22,7 @@
     {
         "name":"khan-academy",
         "imgBW":"khanacademy2.png",
-        "imgCF":"khanacademy.png"
+        "imgCF":"khan-academy.png"
     },
     {
         "name":"moodle",
@@ -37,6 +37,6 @@
     {
         "name":"google-classroom",
         "imgBW":"googleclass2.png",
-        "imgCF":"googleclass.png"
+        "imgCF":"google-classroom.png"
     }
 ]

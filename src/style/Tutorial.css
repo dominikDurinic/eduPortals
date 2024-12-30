@@ -1,0 +1,160 @@
+.tutorial-content{
+    width: 1300px;
+    display: flex;
+}
+
+.sidebar-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 25%;
+}
+
+.side-bar-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: calc(100vh - 150px - 70px - 156px);
+    background-color: var(--back-red);
+    overflow: auto;
+}
+
+.tutorial-content-div{
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+}
+
+.tutorial-title-nav-bar{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-tut-button{
+    width: 150px;
+    padding: 10px 0px;
+    margin: 0px 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: #c5c3c3 ;
+    color: black;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-weight: bold;
+}
+
+.nav-tut-button:hover{
+    background-color: #D9D9D9;
+}
+
+.next-btn{
+    background-color: var(--back-red);
+}
+
+.next-btn:hover{
+    background-color: var(--selected-red);
+}
+
+.disabled-btn{
+   opacity: 0.5;
+   cursor: auto;
+   background-color: #D9D9D9;
+}
+
+.disabled-btn-next{
+    opacity: 0.5;
+   cursor: auto;
+   background-color: var(--selected-red);
+}
+
+.nav-tut-button > img{
+    width: 15px;
+}
+
+.img-logo-div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    padding: 20px 0px;
+}
+
+.logo-img-sidebar{
+    width: 200px;
+}
+
+.sidebar-heading-div{
+    width: 100%;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--back-red);
+    cursor: pointer;
+    color: white;
+}
+
+.sidebar-heading-div:hover{
+    background-color: var(--selected-red);
+    color: black;
+}
+
+.sidebar-heading-div > p{
+    font-weight: bold;
+    font-size: medium;
+}
+
+.sidebar-heading-div-selected{
+    background-color: var(--selected-red);
+    color: black;
+}
+
+.back-button-div{
+    width: 100%;
+    background-color: var(--selected-red);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    height: 50px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.back-button-div > img{
+    width: 15px;
+}
+
+.tutorial-a{
+    width: 100%;
+}
+
+.video-guide-div{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 40px;
+    gap: 20px;
+}
+
+.video-div{
+    width: 800px;
+    height: 400px;
+}
+
+.video-frame{
+    width: 100%;
+    height: 100%;
+    
+    border: none;
+}
+
