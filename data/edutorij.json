@@ -2,27 +2,73 @@
     {
         "id":1,
         "name":"O platformi",
-        "description":["Hrvatska platforma...", "CARNET ju izradio...ndsfhsdjkf sdfksjfs djygfjkjgdfjgl jkdjlkgjdkljgf dsvdsf ds dfs fdsfdfdfdfdf  edre efefeff  fgr g"],
+        "description":["Edutorij je web platforma <b>namijenjena objavi, pohrani, pristupu i razmjeni obrazovnih sadržaja</b> na području Republike Hrvatske.", 
+            "Web platforma je nastala u sklopu projekta e-Škole: Uspostava sustava razvoja digitalno zrelih škola (pilot projekt).",
+            "Nositelj ovog projekta je <b>Hrvatska akademska i istraživačka mreža CARNET</b> u suradnji s Ministarstvom znanosti i obrazovanja Republike Hrvatske.",
+            "Primarna skupina korisnika Edutorija su <b>nastavnici i učenici</b> hrvatskih osnovnih i srednjih škola te <b>stručnjaci s visokih učilišta i javnih znanstvenih instituta</b> u Hrvatskoj. Web platformi se pristupa koristeći elektronički identitet <b>AAI@EduHr</b> ili putem sustava <b>e-Građani.</b>",
+            "Glavni cilj ove platforme jest osigurati <b>pohranu i pristup znanju na jednom mjestu</b>. Želja je omogućiti korisnicima Edutorija pregled i sudjelovanje u mreži stručnjaka čija je primarna uloga razmjena vlastitih znanja drugima i stvaranje boljitka suvremenog obrazovanja."],
         "video":""
     },
     {
         "id":2,
-        "name":"Prednosti i nedostaci",
-        "description":[""],
-        "pros":["Korištenje usluga web platforme je u potpunosti besplatno","Mogućnost objave sadržaja na hrvatskom jeziku","Jednostavna objava materijala u nekoliko koraka u obliku obrasca","Promjena vidljivosti sadržaja- privatno ili javno"],
-        "cons":["Web platforma je u .hr domeni i prvenstveno namijenjena hrvatskoj obrazovnoj sceni","Nužna prijava putem AAI@EduHr ili sustava e-Građani za objavu i pristup sadržajima","Neobavezna recenzija sadržaja- nepostojanje stručne ocjene"],
+        "name":"Osnovne funkcionalnosti",
+        "description":["Glavna funkcionalnost koju Edutorij nudi je <b>objava vlastitih materijala, tj. obrazovnog sadržaja</b>. U sustav je moguće pohraniti različite formate digitalnih obrazovnih sadržaja (skraćeno DOS)",
+            "Važno je naglasiti kako mogućnost objave DOS-a imaju sve vrste prijavljenih korisnika.",
+            "Zbog jednostavnije i preglednije strukture obrazovnih sadržaja, omogućeno je povezivanje obrazovnih sadržaja u <b>kolekcije</b>.",
+            "Prilikom kreiranja i objave DOS-a ili kolekcija, korisnik ima mogućnost izabrati <b>vidljivost kreiranog sadržaja</b>. Uz mogućnost odabira vidljivosti sadržaja, korisniku se nudi mogućnost <b>naplate pristupa sadržaju</b>. Navedeno se naznačuje u postupku objave sadržaja, izborom cijene i broja računa za uplatu.",
+            "Sadržaj koji korisnik objavljuje <b>nije nužno podvrgnut recenziji</b>, već je dužnost autora sadržaja da isti bude točan, stručan i pravopisno te gramatički ispravan.",
+            "Bitno je napomenuti važnost <b>ispravnog i potpunog unosa metapodataka</b> o sadržaju spremnog za objavu jer oni omogućuju kvalitetniju organizaciju sadržaja unutar repozitorija i interoperabilnost s drugim uslugama s kojima je Edutorij povezan.",
+            "Edutorij omogućuje pristup pohranjenom sadržaju svim prijavljenim korisnicima sustava. Materijalima je moguće pristupiti izravno <b>pretragom ključnih riječi u pametnoj tražilici</b> ili pregledom svih materijala i kolekcija koje su pohranjene u repozitoriju.",
+            "Uz pristup i mogućnost lokalnog preuzimanja sadržaja, korisnik ima mogućnost <b>unosa ocjene i komentara sadržaja</b> kojem pristupa. Ako korisnik želi biti u toku s odabranim kolekcijama sadržaja, na njih se može <b>pretplatiti</b> te će mu one biti vidljive unutar kartice Moj edutorij",
+            "Osim korisničkih recenzija, veliku važnost u kvaliteti obrazovnih sadržaja imaju <b>stručne ocjene</b>. Obrazovni sadržaj stručno ocjenjuju isključivo stručnjaci iz istog područja kojem pripada sam sadržaj. Osim stručnog ocjenjivanja, urednici Edutorija mogu sadržaju dodijeliti <b>oznaku izbor urednika</b>."],
         "video":""
     },
     {
         "id":3,
-        "name":"Prijava",
-        "description":["Hrvatska platforma..."],
-        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        "name":"Prednosti i nedostaci",
+        "description":[""],
+        "pros":[" Korištenje usluga web platforme je u potpunosti besplatno",
+            "Mogućnost objave sadržaja na hrvatskom jeziku",
+            "Jednostavna objava materijala u nekoliko koraka u obliku obrasca",
+            "Promjena vidljivosti sadržaja - privatno ili javno",
+            "Nagrada za autora sadržaja kroz naplatu pristupa sadržaju",
+            "Široki raspon funkcionalnosti - objava, pristup, preuzimanje i pretraživanje sadržaja",
+            "Provjera kvalitete sadržaja - stručne ocjene",
+            "Ocjene i komentari prijavljenih korisnika",
+            "Praćenje sadržaja kroz pretplate",
+            "Pristup otvorenim sadržajima bez prethodne prijave"],
+        "cons":["Web platforma je u .hr domeni i prvenstveno namijenjena hrvatskoj obrazovnoj sceni",
+            "Nužna prijava putem AAI@EduHr ili sustava e-Građani za objavu i pristup sadržajima",
+            "Neobavezna recenzija sadržaja - nepostojanje stručne ocjene",
+            "Isključivo nastavnici mogu zatražiti stručno ocjenjivanje sadržaja",
+            "Ne postoje diskusijske grupe i razgovori 1 na 1"],
+        "video":""
     },
     {
         "id":4,
-        "name":"Objava",
-        "description":["Hrvatska platforma..."],
-        "video":""
+        "name":"Prijava korisnika u sustav",
+        "description":["Za prijavu korisnika u sustav potrebno je odabrati Prijava u gornjem desnom kutu i izabrati jednu od ponuđenih opcija prijave. Mi ćemo koristiti AAI@EduHr korisnički račun za prijavu u sustav."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":5,
+        "name":"Objava vlastitog sadržaja",
+        "description":["Nakon što smo se uspješno prijavili u sustav dobivamo mogućnost objave vlastitih obrazovnih sadržaja. Objava vlastitog sadržaja se vrši kroz navigaciju na vrhu stranice pod kategorijom Materijali.",
+            "U padajućem izborniku odaberemo opciju Unos novog materijala. Pritiskom se otvara novi prozor na kojem se nalazi Obrazac za objavu sadržaja.",
+            "U obrascu postoji šest koraka koji se popunjavaju slijedno. Polja označena crvenom zvjezdicom potrebno je ispuniti dok preostala, ne označena nije potrebno.",
+            "Na početku je potrebno odabrati materijal i učitati ga u sustav. Nakon toga slijedi popunjavanje osnovnih podataka o materijalu. Slijede odabir kategorije, vidljivost, podaci o plaćanju, dozvola za komentiranje i konačno objava materijala uz ispunjavanje suglasnosti s Uvjetima korištenja."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":6,
+        "name":"Pristup i pregled sadržaja",
+        "description":["Nakon što smo uspješno objavili sadržaj na Edutorij, možemo mu pristupiti. Pregled objavljenog materijala sadrži opis koji smo ispunili prilikom objave kroz obrazac. Također materijal je moguće preuzeti, pretplatiti se, ocijeniti i komentirati."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":7,
+        "name":"Komentari i ocjena",
+        "description":["Kao što smo već i spomenuli, moguće je komentirati i ocijeniti materijal ako je to autor materijala dozvolio."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
     }
 ]

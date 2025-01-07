@@ -112,8 +112,8 @@ function Tutorial() {
                   </button>
                   <h3>
                     {data
-                      ? selectedHeading > 2
-                        ? `Tutorial ${selectedHeading - 2} : ${
+                      ? selectedHeading > 3
+                        ? `Tutorial ${selectedHeading - 3} : ${
                             data[selectedHeading - 1].name
                           }`
                         : data[selectedHeading - 1].name
@@ -130,7 +130,11 @@ function Tutorial() {
                     <img src="/images/next.png" />
                   </button>
                 </div>
-                <VideoGuide data={data} ind={selectedHeading} />
+                <VideoGuide
+                  data={data}
+                  ind={selectedHeading}
+                  key={selectedHeading}
+                />
               </div>
             </div>
           </main>

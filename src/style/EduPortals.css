@@ -40,14 +40,6 @@
     width: 150px;
 }
 
-@media only screen and (max-width: 1350px) {
-    .portal-btn{
-        height: 90px;
-    }
-
-    
-}
-
 @media only screen and (max-width: 600px) {
     .portals-btns-container{
         padding: 20px 0px;

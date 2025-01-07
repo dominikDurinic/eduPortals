@@ -20,7 +20,7 @@ function EduPortals() {
       <main>
         <div className="main-content">
           <div className="portals-btns-container">
-            <p>Odaberite jedno od sljedećih edukacijskih portala:</p>
+            <p>Odaberite jedan od sljedećih edukacijskih portala:</p>
             <div className="portals-btns-div">
               {newData.map((portal, ind) => (
                 <a href={`/eduportals/${portal.name}`} key={`${portal.name}`}>

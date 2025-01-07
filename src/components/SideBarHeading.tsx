@@ -12,8 +12,8 @@ function SideBarHeading(props: {
       onClick={() => props.selectHead(props.id)}
     >
       <p>
-        {props.id > 2
-          ? `Tutorial ${props.id - 2} : ${props.h_name}`
+        {props.id > 3
+          ? `Tutorial ${props.id - 3} : ${props.h_name}`
           : props.h_name}
       </p>
     </div>

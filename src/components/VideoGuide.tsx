@@ -19,7 +19,7 @@ function VideoGuide(props: { data: Tutorial[] | undefined; ind: number }) {
             ></iframe>
           </div>
 
-          <script src="https://player.vimeo.com/api/player.js"></script>
+          {/*<script src="https://player.vimeo.com/api/player.js"></script>*/}
 
           {/*<iframe
             className="video-div"
@@ -74,12 +74,22 @@ function VideoGuide(props: { data: Tutorial[] | undefined; ind: number }) {
           </table>
         </>
       ) : null}
-      {props.data &&
-        props.data[index].description.map((desc) => (
-          <p className="guide-p" key={desc}>
-            {desc}
-          </p>
-        ))}
+      {props.data && (
+        <div
+          className={`videoGuide-content-text ${
+            index < 3 && "justContentText"
+          }`}
+        >
+          {props.data &&
+            props.data[index].description.map((desc) => (
+              <p
+                className="guide-p"
+                key={desc}
+                dangerouslySetInnerHTML={{ __html: desc }}
+              ></p>
+            ))}
+        </div>
+      )}
     </div>
   );
 }

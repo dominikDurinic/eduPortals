@@ -15,7 +15,7 @@
     },
     {
         "name":"Prijedlog",
-        "description":"Iskažite vlastite preference kroz vrlo jednostavni kviz te provjerite koji edukacijski portal Vama odgovara.",
+        "description":"Iskažite vlastite preference kroz vrlo jednostavni kviz te provjerite koji Vam edukacijski portal najviše odgovara.",
         "image":"/images/prijedlog.png",
         "link":"/decision",
         "color":"var(--light-yellow)"

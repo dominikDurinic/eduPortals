@@ -8,7 +8,7 @@ function Footer() {
         <a href="/">
           <img src="/images/logo3.png" alt="logo" className="logo-footer" />
         </a>
-        <p>Zagreb, 2024.</p>
+        <p>Zagreb, 2025.</p>
       </div>
     </div>
   );
