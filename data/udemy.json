@@ -1,0 +1,75 @@
+[
+    {
+        "id":1,
+        "name":"O platformi",
+        "description":["<b>Udemy</b> je <b>edukativna web platforma</b> koja prije svega nudi <b>široki raspon tečajeva u video formatu</b>. Pokriva gotovo sva područja primjene znanja i okuplja eksperte iz različitih područja kao i polaznike tečajeva. Na Udemy platformi se većina tečajeva <b>naplaćuje prema cijeni koju određuje instruktor u suradnji s Udemy timom</b>.",
+            "Osim postojećih tečajeva, svakome se pojedincu, koji je željan prenošenja vlastitog znanja drugima, <b>nudi mogućnost da postane instruktor na Udemy platformi</b>. Za stvaranje vlastitog tečaja potrebna je prijava u sustav te se može započeti izrada novog tečaja. Izrada vlastitog tečaja se ne naplaćuje već je besplatna, ali Udemy uzima određeni postotak zarade od prodaje tečaja.",
+            "Važno je naglasiti kako se na Udemy platformu tečajevi postavljaju <b>isključivo u video formatu</b> te nisu dozvoljeni drugi oblici tečaja. Ipak postoji mogućnost izrade kvizova, ispita za vježbu i postavljanja popratnog materijala u drugim formatima.",
+            "Također treba spomenuti kako prije objave vlastitog tečaja, <b>tečaj mora odobriti Udemy tim</b>. Ako postavljeni tečaj nije u skladu s Udemy politikom, potrebno je prilagoditi tečaj. Udemy tim Vam je na raspolaganju u cijelom procesu od izrade do objave vlastitog tečaja."],
+        "video":""
+    },
+    {
+        "id":2,
+        "name":"Osnovne funkcionalnosti",
+        "description":["Web platforma Udemy sadrži veliki broj tečajeva <b>raspoređenih u veće kategorije</b> s obzirom na područje primjene sadržaja. Navedena kategorizacija tečaja omogućava lakše snalaženje i pronalaženje odgovarajućeg sadržaja. Kategorizacija sadržaja je i jedan od koraka pri izradi vlastitog tečaja. Osim kategorizacije, korisniku se nudi i mogućnost pretrage sadržaja <b>prema ključnim riječima u tražilici</b> na vrhu sučelja.",
+            "Odabrani tečaj se mora upisati kako biste mu mogli pristupiti. Upis može biti <b>besplatan ili se naplaćuje</b> prema postavljenoj cijeni. Prije upisa tečaja moguće je pogledati sve <b>detalje o tečaju</b>, kao što su sadržaj tečaja, ocjene i komentari polaznika, informacije o instruktoru kao i povezani sadržaj. Također postoji mogućnost postavljanja favorita na tečajeve koji Vam se sviđaju.",
+            "Nakon upisa i početka tečaja, započinju video sadržaji podijeljeni po sadržaju. Svaki video je <b>moguće pregledavati više puta</b>. Kako bi lakše pratili vlastiti napredak, nakon gledanja pojedinog video sadržaja <b>bilježi se napredak u tečaju</b>.",
+            "Dodatna mogućnost koja se nudi korisniku je postavljanje bilješki po određenoj minuti videa što je dobra praksa za kasnije obnavljanje znanja.",
+            "Za svaki plaćeni tečaj korisnik može <b>unijeti ocjenu i pripadajući komentar</b> kao i postaviti pitanje instruktoru putem <b>Q&A</b> ili <b>direktnom porukom instruktoru</b>.",
+            "Po završetku isključivo plaćenih tečaja, polaznik zaprima <b>certifikat o uspješnom završetku tečaja</b>.",
+            "Uz pregled sadržaja <b>moguće je i izraditi vlastiti sadržaj odnosno tečaj</b>. Tečaj se izrađuje u sučelju \"Instructor dashboard\". Izrada tečaja je vrlo jednostavna u nekoliko koraka i popunjavanjem obrasca. Navedeni obrazac je potrebno <b>predati na provjeru Udemy timu</b>. Nakon odobrenje, tečaj se javno objavljuje. Autor tečaja može u svom sučelju <b>pratiti analitiku, broj studenata, komentare i ocjene te odgovarati na komentare polaznika</b>."],
+        "video":""
+    },
+    {
+        "id":3,
+        "name":"Prednosti i nedostaci",
+        "description":[""],
+        "pros":["Korištenje usluge izrade tečaja je u potpunosti besplatno",
+            "Mogućnost objave sadržaja na hrvatskom jeziku",
+            "Jednostavna objava materijala u nekoliko koraka popunjavanjem obrasca",
+            "Široki raspon funkcionalnosti - pretraga, pregled i kreiranje sadržaja",
+            "Komunikacija s autorima obrazovnih sadržaja kroz Q&A i direktne poruke",
+            "Mogućnost naplate vlastitih sadržaja i usluga",
+            "Ocjene i komentari prijavljenih korisnika",
+            "Analitika pristupa i pregledavanja sadržaja",
+            "Svjetski poznata i široko dostupna web platforma"],
+        "cons":["Obavezno odobrenje sadržaja prije javne objave",
+            "Jedan oblik obrazovnog sadržaja za objavu - video format",
+            "Upute za korištenje web platforme te obrasci za objavu sadržaja su dostupni u 18 poznatijih jezika, među kojima ne postoji hrvatski jezik",
+            "Isključivo kod plaćenih tečajeva moguća komunikacija s autorima te zaprimanje certifikata završetkom tečaja",
+            "Ne postoje zajednice instruktora s polaznicima tečaja u kojima su moguće diskusije i aktualnosti"],
+        "video":""
+    },
+    {
+        "id":4,
+        "name":"Prijava korisnika u sustav",
+        "description":["Ako niste registrirani na Udemy potrebno je kreirati novi korisnički račun prateći polja obrasca. Nakon uspješne registracije potrebno se prijaviti u sustav unosom postavljene e-pošte i lozinke."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":5,
+        "name":"Odabir sadržaja",
+        "description":["Odabirom željenog sadržaja odnosno tečaja, otvara se novi prozor s detaljima o sadržaju (autor, kratki opis sadržaja, struktura tečaja, recenzije, ocjena, pregled kratkih isječaka tečaja i sl.). Osim informacija o samom tečaju, odabrani tečaj je moguće upisati. Upis može biti besplatan ili se naplaćuje."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":6,
+        "name":"Pregled sadržaja i mogućnosti",
+        "description":["Pokretanjem upisanog tečaja otvara se novi prozor s video prikazom tečaja, popisom sadržaja po lekcijama, te dodatnim mogućnostima. Svaki video je moguće pogledati više puta.",
+            "Od dodatnih mogućnosti pruža se mogućnost upisa bilješki po minuti gledanja tečaja, postavljanje pitanja kroz Q&A autorima tečaja te ocjenjivanje i komentiranje sadržaja tečaja. Također je moguće pratiti vlastiti napredak kroz tečaj."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":7,
+        "name":"Upravljačko sučelje",
+        "description":["Postavljanje vlastitog sadržaja se odvija kroz sučelje \"Instructor dashboard\". Ovo sučelje predstavlja upravljački sustav za autora u kojem može izrađivati tečajeve, pratiti analitiku tečaja te odgovarati na postavljena pitanja polaznika tečaja."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":8,
+        "name":"Izrada vlastitog sadržaja",
+        "description":["Novi tečaj se izrađuje pritiskom na gumb \"Create Your Course\" unutar kartice \"Courses\". Pritiskom na gumb se otvara prozor u kojem je potrebno pratiti korake za izradu sadržaja. Nakon završetka koraka, otvara se obrazac koji je potrebno ispuniti s osnovnim informacijama o tečaju - opis, ciljana publika, postavljanje video materijala, cijena naplate sadržaja i dr.",
+            "Nakon popunjavanja svih polja unutar obrasca, potrebno je predati tečaj na provjeru Udemy timu pritiskom na gumb \"Submit for Review\". Nakon odobrenja, izrađeni tečaj je moguće objaviti."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    }
+]

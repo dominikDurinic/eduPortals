@@ -3,7 +3,7 @@
         "id":1,
         "name":"O platformi",
         "description":["Edutorij je web platforma <b>namijenjena objavi, pohrani, pristupu i razmjeni obrazovnih sadržaja</b> na području Republike Hrvatske.", 
-            "Web platforma je nastala u sklopu projekta e-Škole: Uspostava sustava razvoja digitalno zrelih škola (pilot projekt).",
+            "Web platforma je nastala u sklopu projekta \"e-Škole: Uspostava sustava razvoja digitalno zrelih škola\" (pilot projekt).",
             "Nositelj ovog projekta je <b>Hrvatska akademska i istraživačka mreža CARNET</b> u suradnji s Ministarstvom znanosti i obrazovanja Republike Hrvatske.",
             "Primarna skupina korisnika Edutorija su <b>nastavnici i učenici</b> hrvatskih osnovnih i srednjih škola te <b>stručnjaci s visokih učilišta i javnih znanstvenih instituta</b> u Hrvatskoj. Web platformi se pristupa koristeći elektronički identitet <b>AAI@EduHr</b> ili putem sustava <b>e-Građani.</b>",
             "Glavni cilj ove platforme jest osigurati <b>pohranu i pristup znanju na jednom mjestu</b>. Želja je omogućiti korisnicima Edutorija pregled i sudjelovanje u mreži stručnjaka čija je primarna uloga razmjena vlastitih znanja drugima i stvaranje boljitka suvremenog obrazovanja."],
@@ -19,7 +19,7 @@
             "Sadržaj koji korisnik objavljuje <b>nije nužno podvrgnut recenziji</b>, već je dužnost autora sadržaja da isti bude točan, stručan i pravopisno te gramatički ispravan.",
             "Bitno je napomenuti važnost <b>ispravnog i potpunog unosa metapodataka</b> o sadržaju spremnog za objavu jer oni omogućuju kvalitetniju organizaciju sadržaja unutar repozitorija i interoperabilnost s drugim uslugama s kojima je Edutorij povezan.",
             "Edutorij omogućuje pristup pohranjenom sadržaju svim prijavljenim korisnicima sustava. Materijalima je moguće pristupiti izravno <b>pretragom ključnih riječi u pametnoj tražilici</b> ili pregledom svih materijala i kolekcija koje su pohranjene u repozitoriju.",
-            "Uz pristup i mogućnost lokalnog preuzimanja sadržaja, korisnik ima mogućnost <b>unosa ocjene i komentara sadržaja</b> kojem pristupa. Ako korisnik želi biti u toku s odabranim kolekcijama sadržaja, na njih se može <b>pretplatiti</b> te će mu one biti vidljive unutar kartice Moj edutorij",
+            "Uz pristup i mogućnost lokalnog preuzimanja sadržaja, korisnik ima mogućnost <b>unosa ocjene i komentara sadržaja</b> kojem pristupa. Ako korisnik želi biti u toku s odabranim kolekcijama sadržaja, na njih se može <b>pretplatiti</b> te će mu one biti vidljive unutar kartice \"Moj edutorij\"",
             "Osim korisničkih recenzija, veliku važnost u kvaliteti obrazovnih sadržaja imaju <b>stručne ocjene</b>. Obrazovni sadržaj stručno ocjenjuju isključivo stručnjaci iz istog područja kojem pripada sam sadržaj. Osim stručnog ocjenjivanja, urednici Edutorija mogu sadržaju dodijeliti <b>oznaku izbor urednika</b>."],
         "video":""
     },
@@ -53,8 +53,8 @@
     {
         "id":5,
         "name":"Objava vlastitog sadržaja",
-        "description":["Nakon što smo se uspješno prijavili u sustav dobivamo mogućnost objave vlastitih obrazovnih sadržaja. Objava vlastitog sadržaja se vrši kroz navigaciju na vrhu stranice pod kategorijom Materijali.",
-            "U padajućem izborniku odaberemo opciju Unos novog materijala. Pritiskom se otvara novi prozor na kojem se nalazi Obrazac za objavu sadržaja.",
+        "description":["Nakon što smo se uspješno prijavili u sustav dobivamo mogućnost objave vlastitih obrazovnih sadržaja. Objava vlastitog sadržaja se vrši kroz navigaciju na vrhu stranice pod kategorijom \"Materijali\".",
+            "U padajućem izborniku odaberemo opciju \"Unos\" novog materijala. Pritiskom se otvara novi prozor na kojem se nalazi \"Obrazac za objavu sadržaja\".",
             "U obrascu postoji šest koraka koji se popunjavaju slijedno. Polja označena crvenom zvjezdicom potrebno je ispuniti dok preostala, ne označena nije potrebno.",
             "Na početku je potrebno odabrati materijal i učitati ga u sustav. Nakon toga slijedi popunjavanje osnovnih podataka o materijalu. Slijede odabir kategorije, vidljivost, podaci o plaćanju, dozvola za komentiranje i konačno objava materijala uz ispunjavanje suglasnosti s Uvjetima korištenja."],
         "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"

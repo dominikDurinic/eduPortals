@@ -1,0 +1,105 @@
+[
+    {
+        "id":1,
+        "name":"O platformi",
+        "description":["<b>Teachable</b> je web platforma koja omogućuje autorima obrazovnih sadržaja <b>jednostavnu izradu, dijeljenje i prodaju vlastitog obrazovnog sadržaja</b>. Pritom se obrazovni sadržaj može ostvariti kroz različite oblike - <b>tečajeve, zajednice korisnika, članstvom, digitalnim preuzimanjem sadržaja i mentoriranjem</b>.", 
+            "Web platforma Teachable je izgrađena s ciljem <b>dizajniranja i stvaranje privlačnih korisničkih sučelja s prilagođenim iskustvom učenja te praćenja napretka učenika</b>.",
+            "Platforma je <b>orijentirana prema poslovanju (engl. business)</b> te je uz sam sadržaj glavna svrha osigurati autorima zaradu kroz naplatu vlastitih sadržaja. Autorima se nude <b>brojna marketinška rješenja i alati za prodaju</b> te tako rasterećuju autora od dodatnog posla oko poslovanja.",
+            "Za korištenje usluga platforme potrebno je izabrati <b>paket sa željenim mogućnostima</b> te se paketi plaćaju na mjesečnoj bazi. Cijena pojedinog paketa ovisi o funkcionalnostima koje autoru nudi paket."],
+        "video":""
+    },
+    {
+        "id":2,
+        "name":"Osnovne funkcionalnosti",
+        "description":["Izrađeni sadržaj postavlja se na dodijeljenu <b>privatnu domenu web stranice</b>. Navedenoj stranici učenici mogu pristupiti putem dodijeljenog linka koji autor dijeli s njima. Dodijeljenu web stranicu je potrebno urediti i prilagoditi vlastitim potrebama i sadržaju obrazovnih sadržaja. Uređenje je vrlo jednostavno kroz drag-and-drop metodu i <b>nije potrebno tehničko znanje izrade web stranice</b>.",
+            "Obrazovni sadržaj može se ostvariti kroz različite oblike - <b>tečajeve, zajednice korisnika, članstva, digitalna preuzimanja sadržaja i mentoriranje</b>.",
+            "<b>Tečajevi (engl. Online courses)</b>", "- Platforma olakšava <b>izradu i pokretanje Internet tečajeva</b>. Nudi <b>gotove predloške tečajeva</b> te <b>AI asistenciju</b> koja prilagođava predložak željama i potrebama korisnika. U implementaciji okvira za tečajeve <b>nije potrebno gotovo nikakvo tehničko znanje</b> te je sve <b>na principu popunjavanja obrazaca i drag-and-drop metode</b>. Strukturu tečaja čine lekcije koje mogu biti u raznim oblicima. Primjerice moguće je ubaciti video sadržaj, dokumente, tekst, kvizove itd.",
+            "<b>Mentoriranje (engl. Coaching)</b>", "- Svrha mentoriranja je <b>podučavanje uživo te povezivanje s publikom</b>. Omogućeno je <b>1 na 1 ili grupno mentoriranje</b>. Predavač sam određuje <b>raspored održavanja susreta</b>, šalje obavijesti i potrebnu literaturu kandidatima te se kandidati prijavljuju na njih. Pristup susretima može biti <b>besplatan ili se naplaćivati</b> prema određenoj cijeni.",
+            "<b>Digitalni repozitorij (engl. Digital downloads)</b>", "- Ovaj oblik objave predstavlja <b>javno postavljanje vlastitih izrađenih obrazovnih sadržaja u raznim formatima za pristup i preuzimanje</b>. Sadržaj je moguće postaviti kao <b>besplatan za korištenje</b> ili ga je moguće postaviti <b>kao zasebnu komponentu te naplaćivati</b>.",
+            "<b>Članstva (engl. Memberships)</b>", "- Članstvo omogućuje korisnicima <b>pristup brojnim tečajevima, zajednicama, digitalnim repozitorijima i događajima</b> koje organizira autor, ali <b>sve u jednom paketu</b>. Navedeno pojednostavljuje korištenje cjelokupnog sadržaja korisnicima sadržaja. Moguće je odrediti <b>cijenu pretplate odnosno članstva na mjesečnoj bazi</b> te u nekoliko <b>slojeva (engl. tier) s obzirom na prava pristupa sadržaju</b>. Uz pretplate korisnici su u toku sa sadržajem autora.",
+            "<b>Zajednica (engl. Community)</b>", "- Cilj zajednica je osigurati korisnicima, učenicima i predavačima <b>međusobnu komunikaciju, dijeljenje mišljenja i rješavanja problema</b>. Pritom nude se mogućnosti razgovora, komentiranja, događaja uživo unutar zajednice, postavljanje reakcija i praćenje analitike zajednice."],
+        "video":""
+    },
+    {
+        "id":3,
+        "name":"Prednosti i nedostaci",
+        "description":[""],
+        "pros":["Mogućnost objave sadržaja na hrvatskom jeziku",
+            "Jednostavna objava materijala u nekoliko koraka u obliku obrasca i nisu potrebna tehnička znanja",
+            "Široki raspon funkcionalnosti - tečajevi, zajednica, digitalni repozitorij, mentoriranje, članstva te marketinški i prodajni alati",
+            "Komunikacija s autorima obrazovnih sadržaja kroz zajednice ili mentoriranje",
+            "Mogućnost naplate vlastitih sadržaja i usluga",
+            "Praćenje sadržaja kroz pretplate",
+            "Ocjene i komentari prijavljenih korisnika",
+            "Analitika pristupa i pregledavanja sadržaja",
+            "Mogućnost integracije s postojećim sadržajem i web stranicama"],
+        "cons":["Korištenje usluga web platforme se naplaćuje prema odabranom paketu usluga na mjesečnoj bazi",
+            "Upute za korištenje web platforme te obrasci za objavu sadržaja su isključivo na engleskom jeziku",
+            "Neobavezna recenzija sadržaja - nepostojanje stručne ocjene"],
+        "video":""
+    },
+    {
+        "id":4,
+        "name":"Prijava korisnika u sustav",
+        "description":["Pri prvom korištenju web platforme potrebno je kreirati vlastiti korisnički račun. U kasnijim prijavama, sustavu se pristupa postavljenom e-poštom i lozinkom."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":5,
+        "name":"Kreiranje nove škole",
+        "description":["Nakon uspješne prijave u sustav, otvara se prozor s Vašim profilom i svim \"školama\" koje imate otvorene. Škole predstavljaju neku vrstu vlastitog virtualnog sustava unutar kojeg za svoju publiku objavljujete sav sadržaj.",
+            "Ako još niste izradili školu to možete učiniti pritiskom gumba \"Create new school\" u izborniku s lijeve strane. Također su u istom prozoru i vidljive sve škole u koje ste upisani odnosno čije tečajeve pratite.",
+            "Odabirom vlastite škole otvara se sučelje s administratorskim ovlastima unutar kojeg se odvijaju sve vrste objave digitalnih obrazovnih sadržaja. S lijeve strane se nalazi glavni izbornik sa svim funkcionalnostima koje možete koristiti."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":6,
+        "name":"Uređenje vlastite privatne stranice za objavu sadržaja",
+        "description":["Objavljeni sadržaj se nalazi na dodijeljenoj privatnoj web stranice. Navedenu web stranicu je potrebno urediti i prilagoditi vlastitim potrebama.",
+            "Za uređenje vlastite web stranice potrebno je odabrati u izborniku opciju \"Site\" te izabrati \"Pages\". U \"Pages\" kartici odaberemo web stranicu koju želimo urediti.",
+            "Uređenje je vrlo jednostavno odabirom stranice koju se želi preurediti te dodavanjem ili brisanjem tzv. page blocks. Svaki blok se može urediti, dodati mu se tekst ili slika te pozicionirati.",
+            "Trenutačno postoje ukupno tri web stranice. One su: početna stranica, stranica o privatnosti i korištenju. Nakon što izradimo tečaj ili digitalni repozitorij, pojavit će se i stranica prodaje na kojoj će polaznik Vaših tečaja morati platiti tečaj ili neki drugi oblik obrazovnog sadržaja."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":7,
+        "name":"Kreiranje tečaja i lekcija",
+        "description":["Želja nam je kreirati tečaj o načinima edukacije i dijeljenja znanja na Internetu. Kako bismo to napravili za početak trebamo definirati vlastiti kurikulum, tj. lekcije koje ćemo izraditi. Odabiremo karticu \"Courses\" iz izbornika s lijeve strane te izaberemo opciju \"New course\".",
+            "Otvara se prozor s pet koraka unutar kojih definiramo naš tečaj. Koraci su vrlo jednostavni i sve je bazirano na principu obrazaca.",
+            "Osim osnovnih informacija o tečaju, koraci sadrže i podatke o načinu naplate tečaja. Nudi Vam se nekoliko opcija naplate sadržaja te sadržaj možete postaviti i kao besplatan.",
+            "Nakon uspješnog postavljanja tečaja, otvara se prozor s novostvorenim tečajem unutar kojeg je potrebno izraditi poglavlja i lekcije."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":8,
+        "name":"Objava tečaja i lekcija",
+        "description":["Kako bi tečaj postao dostupan javnosti, potrebno ga je objaviti pritiskom na gumb \"Publish Course\". Također potrebno je posebno objaviti i pojedinu lekciju unutar tečaja."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":9,
+        "name":"Pristup i pregled tečaja",
+        "description":["Moguće je provjeriti pregled sadržaja u načinu na koji to polaznici Vašeg tečaja vide. Odaberemo opciju \"Preview as student\" kod željenog tečaja."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":10,
+        "name":"Kreiranje digitalnog sadržaja",
+        "description":["Ako nam je želja postaviti već unaprijed izrađeni obrazovni sadržaj u određenom formatu bez potrebe za strukturom i dodatnim objašnjenjima, to možemo napraviti s pomoću digitalnog repozitorija.",
+            "U izborniku s lijeve strane izabiremo karticu \"Digital Downloads\" te odabirem opciju \"Create digital download\".",
+            "U novom prozoru nas očekuje sedam jednostavnih koraka u obliku obrasca, vrlo slično kao kod izrade tečaja."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":11,
+        "name":"Objava digitalnog sadržaja",
+        "description":["Nakon uspješno stvorenog digitalnog sadržaja za preuzimanje, potrebno je sadržaj objaviti. Navedeno radimo pritiskom gumba \"Publish\"."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":12,
+        "name":"Pregled digitalnog sadržaja",
+        "description":["Možemo napraviti pregled objavljenog sadržaja odlaskom na našu privatnu web stranicu i pregledom svih objavljenih sadržaja. Tamo ćemo pronaći nedavno objavljeni digitalni sadržaj."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    }
+]
