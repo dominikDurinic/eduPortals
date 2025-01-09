@@ -1,0 +1,89 @@
+[
+    {
+        "id":1,
+        "name":"O platformi",
+        "description":["<b>Google Classroom</b> je web platforma namijenjena izradi i dijeljenju obrazovnih sadržaja. Platformu je razvio <b>Google</b> i integrirao sa svojim preostalim uslugama te tako platforma čini <b>kompletni sustav za distribuciju znanja</b>.",
+            "Osnovna svrha pokretanja platforme je <b>pojednostavniti školski sustav</b> u pogledu <b>dijeljenja nastavnih materijala, zadataka za zadaću ili projekata te mogućnosti pristupa, preuzimanja i slanje učeničkih radova nastavniku</b> na jednostavan način unutar jedne aplikacije.",
+            "Osim navedenih prednosti, Google Classroom omogućuje <b>ocjenjivanje radova, davanje povratnih informacija te međusobnu komunikaciju</b> između učenika i nastavnika",
+            "Zbog jednostavnosti i dobre organizacije, danas se Google Classroom koristi <b>i izvan školskih okvira</b>. Svrha je ostala ista, dijeljenje obrazovnih sadržaja, ali na širu publiku.",
+            "Kako su ciljani korisnici ove platforme ustanove za edukaciju, u platformi <b>ne postoji mogućnost naplate vlastitih obrazovnih sadržaja</b>.",
+            "Web platforma je <b>minimalističkog dizajna i jednostavna za upoznavanje i rad</b>. Upravo zbog njene jednostavnosti se većina odlučuje na njeno korištenje.",
+            "Google Classroom je koncipiran kao \"zatvorena\" zajednica korisnika kojoj se pristupa putem <b>poveznice s jedinstvenim kodom</b> koju dijelite s drugim korisnicima."],
+        "video":""
+    },
+    {
+        "id":2,
+        "name":"Osnovne funkcionalnosti",
+        "description":["Web platformu Google Classroom je moguće koristiti iz <b>dvije uloge: učenik i nastavnik</b>.",
+            "<b><u>Učenik</u></b>", "U ulozi učenika možete se pridružiti postojećim <b>razredima</b> (engl. class) putem <b>poveznice iz pozivnice</b> ili unosom <b>jedinstvenog koda</b> u za to predviđeni unos. Unutar razreda kao učenik možete <b>pristupiti svim materijalima i zadacima</b> koji su postavljeni <b>unutar razreda</b>.",
+            "Rješavanjem zadataka, nastavnik Vam može <b>dodijeliti prikladne bodove i povratne informacije</b> o uspješnosti rješavanja zadatka. Uz sve to možete uspostaviti <b>komunikaciju s nastavnikom u obliku komentara</b> na pojedini materijal.",
+            "<b><u>Nastavnik</u></b>", "U ulozi nastavnika pruža Vam se više mogućnosti. Za početak morate <b>kreirati novi razred</b> unutar kojega ćete postavljati materijale i zadatke. Nakon otvaranja razreda, <b>podijelite link s jedinstvenim kodom</b> interesnoj skupini za Vaš obrazovni sadržaj.",
+            "Unutar razreda na početnoj stranici možete <b>postavljati obavijesti</b>. Navedeno omogućuje učenicima odnosno korisnicima praćenje događaja, novih objavljenih materijala i sl. Također omogućeno je ostavljanje <b>komentara ispod obavijesti</b>.",
+            "Unutar razreda je moguće kreirati <b>različite oblike obrazovnih sadržaja - zadaci, kvizovi, pitanja, materijali i teme</b>. Kod izrade novih zadataka i kvizova, moguće je postaviti <b>vremenske rokove za rješavanje</b>, kao i <b>ocjenjivanje</b>.",
+            "Za postavljanje novih materijala potrebno je ispuniti <b>kratki obrazac s osnovnim informacijama o sadržaju</b> te postaviti vlastiti izrađeni obrazovni sadržaj. Za postavljanje sadržaja moguće je uz lokalno postavljanje koristiti i linkove, materijale iz oblaka, video sadržaj s YouTube i sl. te čak i trenutačno kreirati novi sadržaj.",
+            "Objavljenom sadržaju se može izravno pristupiti iz razreda ili putem linka. Zbog veće preglednosti i jednostavnog korištenja, obrazovni sadržaji se mogu <b>podijeliti po temama</b>. Pri pregledu pojedinog obrazovnog sadržaja, moguće je postaviti komentar. Komentar može biti i u obliku pitanja na koje onda nastavnik daje odgovor."],
+        "video":""
+    },
+    {
+        "id":3,
+        "name":"Prednosti i nedostaci",
+        "description":[""],
+        "pros":["Korištenje usluge izrade razreda i objave materijala je u potpunosti besplatno",
+            "Mogućnost objave sadržaja na hrvatskom jeziku",
+            "Jednostavna objava materijala u nekoliko koraka popunjavanjem obrasca",
+            "Široki raspon funkcionalnosti - kreiranje i pregled sadržaja, ocjenjivanje zadataka",
+            "Komentari prijavljenih korisnika",
+            "Analitika rješavanja zadataka i kvizova",
+            "Svjetski poznata i široko dostupna web platforma"],
+        "cons":["Nemogućnost naplate obrazovnog sadržaja",
+            "Nužna prijava putem Google Accounta za objavu i pristup sadržajima",
+            "Nemogućnost izravne komunikacije s autorom obrazovnog sadržaja",
+            "Upute za korištenje web platforme te obrasci za objavu sadržaja su dostupni na engleskom jeziku"],
+        "video":""
+    },
+    {
+        "id":4,
+        "name":"Prijava korisnika u sustav",
+        "description":["Na početnoj stranici je potrebno prijaviti se u sustav. Nažalost, trenutačno je moguća prijava samo putem Google Accounta odnosno Gmail e-pošte."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":5,
+        "name":"Kreiranje i pristup razredu",
+        "description":["Ako razred postoji, u ulozi učenika mu je moguće pristupiti izravno putem poveznice ili unosom jedinstvenog koda odabirom opcije \"Join class\".",
+            "Ako želite otvoriti vlastiti razred unutar kojega ćete postavljati vlastiti obrazovni sadržaj, morate kreirati novi razred. Navedeno je moguće odabirom opcije \"Create class\". Nakon toga otvara se mali prozor s obrascem osnovnih informacija o novom razredu koji je potrebno ispuniti."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":6,
+        "name":"Stranica razreda i postavljanje obavijesti",
+        "description":["Na početnoj stranici razreda moguće je postaviti opće obavijesti koje informiraju korisnike razreda o aktualnostima i novim objavljenim materijalima."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":7,
+        "name":"Izrada novog materijala",
+        "description":["Kako bismo kreirali novi sadržaj i postavili ga u razredu potrebno je odabrati karticu \"Classwork\". U novo otvorenom prozoru izabiremo opciju \"Create\" te u skočnom izborniku izaberemo željeni oblik obrazovnog sadržaja.",
+            "Ono može biti novi zadatak, kviz, pitanje, materijal ili tema. U okviru priručnika nam je zanimljivo postavljanje vlastitih materijala i stoga odabiremo opciju \"Material\".",
+            "Nakon odabrane opcije otvara se novi prozor s obrascem za upis osnovnih informacija o materijalu te postavljanje materijala. Za postavljanje materijala nudi se više mogućnosti (linkovi, materijali iz oblaka, video sadržaj s YouTube, lokalno i dr.), no mi ćemo izabrati najjednostavniji oblik postavljanja iz lokalnog spremnika."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":8,
+        "name":"Objava materijala",
+        "description":["Nakon uspješnog postavljanja sadržaja potrebno ga je i objaviti pritiskom na gumb \"Post\". Također nudi se i mogućnost odgođene objave materijala s postavljenim vremenom."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":9,
+        "name":"Pregled materijala",
+        "description":["Nakon uspješne objave materijala, moguće je pregledati materijal na kartici \"Classwork\". Obavijest o postavljanju novog materijala se automatski objavljuje na početnoj stranici razreda."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    },
+    {
+        "id":10,
+        "name":"Komentari",
+        "description":["Osim pregleda i preuzimanja postavljenih materijala, postoji mogućnost unosa komentara uz sam materijal. Navedena opcija omogućuje korisniku postavljanje pitanja ili jednostavno ostavljanja vlastitih misli i komentara."],
+        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    }
+]
