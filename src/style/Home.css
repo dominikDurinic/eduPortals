@@ -68,7 +68,7 @@
 
 .logoBar-img{
     width: 100px;
-    height: min-content;
+    height: auto;
     opacity: 0.5;
 }
 

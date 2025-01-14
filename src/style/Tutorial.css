@@ -94,7 +94,7 @@
 
 .logo-img-sidebar{
     width: 200px;
-    height: min-content;
+    height: auto;
 }
 
 .sidebar-heading-div{

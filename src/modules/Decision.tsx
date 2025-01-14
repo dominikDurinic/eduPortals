@@ -66,7 +66,7 @@ function Decision() {
                   {!finish && (
                     <button
                       className={`nav-tut-button ${
-                        selectedQuestion === 1 && "disabled-btn"
+                        selectedQuestion === 1 ? "disabled-btn" : ""
                       }`}
                       onClick={() => setSelectedQuestion(selectedQuestion - 1)}
                       disabled={selectedQuestion === 1}

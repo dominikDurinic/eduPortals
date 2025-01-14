@@ -116,7 +116,7 @@ function Tutorial() {
                 <div className="tutorial-title-nav-bar">
                   <button
                     className={`nav-tut-button ${
-                      selectedHeading === 1 && "disabled-btn"
+                      selectedHeading === 1 ? "disabled-btn" : ""
                     }`}
                     onClick={() => setSelectedHeading(selectedHeading - 1)}
                     disabled={selectedHeading === 1}
@@ -135,7 +135,9 @@ function Tutorial() {
                   </h3>
                   <button
                     className={`nav-tut-button next-btn ${
-                      selectedHeading === data?.length && "disabled-btn-next"
+                      selectedHeading === data?.length
+                        ? "disabled-btn-next"
+                        : ""
                     }`}
                     onClick={() => setSelectedHeading(selectedHeading + 1)}
                     disabled={selectedHeading === data?.length}
