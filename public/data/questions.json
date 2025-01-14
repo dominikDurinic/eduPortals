@@ -2,7 +2,7 @@
     {
         "id":"1",
         "name":"Odgovara li Vam plaćanje naknade za korištenje usluge objave i upravljanja obrazovnim sadržajem na platformi?",
-        "responses":["Želim u potpunosti besplatnu platformu.", "Želim plaćati korištenje usluga platforme.",
+        "responses":["Želim u potpunosti <b>besplatnu</b> platformu.", "Želim plaćati korištenje usluga platforme.",
             "Želim besplatnu platformu, ali za kvalitetu i više usluga platio/la bih korištenje usluga platforme."]
     },
     {

@@ -21,7 +21,7 @@ function Decision() {
   const maxQuestions = 5;
 
   useEffect(() => {
-    fetch(`../../data/questions.json`)
+    fetch(`../../public/data/questions.json`)
       .then((response) => response.json())
       .then((data) => setQuestions(data))
       .catch((error) => console.error("Error fetching the JSON file:", error));

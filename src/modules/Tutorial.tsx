@@ -27,7 +27,7 @@ function Tutorial() {
   const { mobileWindowSize } = useWindowSizeContext();
 
   useEffect(() => {
-    fetch(`../../data/${portal.name}.json`)
+    fetch(`../../public/data/${portal.name}.json`)
       .then((response) => response.json())
       .then((data) => setData(data))
       .catch((error) => console.error("Error fetching the JSON file:", error));
