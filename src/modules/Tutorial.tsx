@@ -7,6 +7,10 @@ import { useEffect, useState } from "react";
 import VideoGuide from "../components/VideoGuide";
 import { useWindowSizeContext } from "../context/WindowSizeContext";
 import { eduPortalUrl, portals } from "../context/eduPortalUrl";
+import edutorij from "../../src/data/edutorij.json";
+import teachable from "../../src/data/teachable.json";
+import udemy from "../../src/data/udemy.json";
+import googleClassroom from "../../src/data/google-classroom.json";
 
 export interface Tutorial {
   id: number;
@@ -27,10 +31,20 @@ function Tutorial() {
   const { mobileWindowSize } = useWindowSizeContext();
 
   useEffect(() => {
-    fetch(`../../public/data/${portal.name}.json`)
-      .then((response) => response.json())
-      .then((data) => setData(data))
-      .catch((error) => console.error("Error fetching the JSON file:", error));
+    switch (portal.name) {
+      case "edutorij":
+        setData(JSON.parse(JSON.stringify(edutorij)));
+        break;
+      case "teachable":
+        setData(JSON.parse(JSON.stringify(teachable)));
+        break;
+      case "udemy":
+        setData(JSON.parse(JSON.stringify(udemy)));
+        break;
+      case "google-classroom":
+        setData(JSON.parse(JSON.stringify(googleClassroom)));
+        break;
+    }
   }, []);
 
   useEffect(() => {

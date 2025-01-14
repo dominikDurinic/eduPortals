@@ -1,6 +1,6 @@
 import Header from "../components/Header";
 import Footer from "../components/Footer";
-import data from "../../public/data/eduPortals.json";
+import data from "../../src/data/eduPortals.json";
 import "../style/EduPortals.css";
 import { useState } from "react";
 
