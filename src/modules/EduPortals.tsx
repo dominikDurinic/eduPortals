@@ -20,7 +20,8 @@ function EduPortals() {
       <main>
         <div className="main-content">
           <div className="portals-btns-container">
-            <p>Odaberite jedan od sljedećih edukacijskih portala:</p>
+            <p>Odaberite jedan od sljedećih edukacijskih portala * :</p>
+
             <div className="portals-btns-div">
               {newData.map((portal, ind) => (
                 <a href={`/eduportals/${portal.name}`} key={`${portal.name}`}>
@@ -44,6 +45,15 @@ function EduPortals() {
                 </a>
               ))}
             </div>
+            <p className="decision-guide">
+              *(Ako niste sigurni koji edukacijski portal izabrati, predlažemo
+              Vam rješavanje kviza na podstranici{" "}
+              <a href="/decision" className="decision-link">
+                Prijedlog
+              </a>
+              .<br /> Nakon ispunjavanja kviza, saznat ćete koji je idealan
+              edukacijski portal koji odgovara Vašim potrebama.)
+            </p>
           </div>
         </div>
       </main>

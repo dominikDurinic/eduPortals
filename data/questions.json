@@ -1,0 +1,32 @@
+[
+    {
+        "id":"1",
+        "name":"Odgovara li Vam plaćanje naknade za korištenje usluge objave i upravljanja obrazovnim sadržajem na platformi?",
+        "responses":["Želim u potpunosti <b>besplatnu</b> platformu.", "Želim plaćati korištenje usluga platforme.",
+            "Želim besplatnu platformu, ali za kvalitetu i više usluga platio/la bih korištenje usluga platforme."]
+    },
+    {
+        "id":"2",
+        "name":"test",
+        "responses":["A", "B",
+            "C"]
+    },
+    {
+        "id":"3",
+        "name":"test",
+        "responses":["A", "B",
+            "C"]
+    },
+    {
+        "id":"4",
+        "name":"test",
+        "responses":["A", "B",
+            "C"]
+    },
+    {
+        "id":"5",
+        "name":"test",
+        "responses":["A", "B",
+            "C"]
+    }
+]

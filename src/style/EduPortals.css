@@ -4,9 +4,25 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 40px;
+    gap: 50px;
     min-height: calc(100vh - 150px - 70px);
-    
+}
+
+.portals-btns-container > p{
+    width: 80%;
+    text-align: center;
+}
+
+.decision-guide{
+    font-style: italic;
+    padding: 30px 0px;
+}
+
+.decision-link{
+    text-decoration: underline;
+    color: var(--light-yellow);
+    font-style: normal;
+    font-weight: bold;
 }
 
 .portals-btns-div{
