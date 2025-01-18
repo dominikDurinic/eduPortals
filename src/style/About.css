@@ -47,7 +47,7 @@
 .download-button{
     border: none;
     border-radius: 10px;
-    background-color: #c5c3c3 ;
+    background-color: gainsboro ;
     color: black;
     width: 100px;
     padding: 10px;
@@ -60,7 +60,7 @@
 }
 
 .download-button:hover{
-    background-color: #D9D9D9;
+    background-color:  #e9e9e9;
 }
 
 .download-icon{

@@ -250,15 +250,3 @@
         justify-content: center;
     }
 }
-
-@media (hover: none){
-    .green-border:hover{
-        background-color: inherit;
-    }
-    .yellow-border:hover{
-        background-color: inherit;
-    }
-    .blue-border:hover{
-        background-color: inherit;
-    }
-}
