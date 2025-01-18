@@ -7,10 +7,10 @@ import { useEffect, useState } from "react";
 import VideoGuide from "../components/VideoGuide";
 import { useWindowSizeContext } from "../context/WindowSizeContext";
 import { eduPortalUrl, portals } from "../context/eduPortalUrl";
-import edutorij from "../../src/data/edutorij.json";
-import teachable from "../../src/data/teachable.json";
-import udemy from "../../src/data/udemy.json";
-import googleClassroom from "../../src/data/google-classroom.json";
+import edutorij from "../data/edutorij.json";
+import teachable from "../data/teachable.json";
+import udemy from "../data/udemy.json";
+import googleClassroom from "../data/google-classroom.json";
 
 export interface Tutorial {
   id: number;

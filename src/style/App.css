@@ -32,6 +32,10 @@ main{
     font-weight: bold;
 }
 
+.text-normal{
+    font-weight: normal;
+}
+
 .gray-div{
     background-color: var(--back-gray);
 }

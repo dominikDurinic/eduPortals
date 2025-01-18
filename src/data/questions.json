@@ -1,32 +1,51 @@
 [
     {
         "id":"1",
-        "name":"Odgovara li Vam plaćanje naknade za korištenje usluge objave i upravljanja obrazovnim sadržajem na platformi?",
-        "responses":["Želim u potpunosti <b>besplatnu</b> platformu.", "Želim plaćati korištenje usluga platforme.",
-            "Želim besplatnu platformu, ali za kvalitetu i više usluga platio/la bih korištenje usluga platforme."]
+        "name":"Želite li plaćati naknade za korištenje usluga objave i upravljanja obrazovnim sadržajem na edukacijskoj platformi? (Pitanje se odnosi na autora sadržaja)",
+        "responses":["Želim <b>plaćati</b> korištenje usluga platforme.", 
+            "Želim <b>u potpunosti besplatnu</b> platformu.",
+            "Želim besplatnu platformu, ali za kvalitetu i više usluga platio/la bih korištenje usluga edukacijske platforme."]
     },
     {
         "id":"2",
-        "name":"test",
-        "responses":["A", "B",
-            "C"]
+        "name":"Želite li naplaćivati vlastiti obrazovni sadržaj korisnicima sadržaja? (Pitanje se odnosi na korisnika/učenika sadržaja)",
+        "responses":["Želim <b>naplaćivati pregled i korištenje vlastitih obrazovnih sadržaja</b> svim korisnicima sadržaja.", 
+            "Želim omogućiti <b>besplatan pristup obrazovnom sadržaju</b> svim korisnicima sadržaja.",
+            "Želim imati mogućnost izbora naplate određenog sadržaja - besplatno korištenje ili korištenje uz plaćanje."]
     },
     {
         "id":"3",
-        "name":"test",
-        "responses":["A", "B",
-            "C"]
+        "name":"Odgovara li Vam korištenje usluga edukacijske platforme na stranom jeziku? (Primjerice upute, polja unosa, upravljanje, analitika i detalji na stranom jeziku)",
+        "responses":["<b>Odgovara mi</b> korištenje usluga edukacijske platforme na <b>stranom jeziku</b>.",
+            "<b>Ne odgovara mi</b> korištenje usluga edukacijske platforme na <b>stranom jeziku</b>.",
+            "Odgovara mi korištenje usluga edukacijske platforme i na stranom jeziku, ali smatram da bi bolji izbor bile edukacijske platforme na hrvatskom jeziku."]
     },
     {
         "id":"4",
-        "name":"test",
-        "responses":["A", "B",
-            "C"]
+        "name":"Odaberite odgovarajuću vrstu objave vlastitog obrazovnog sadržaja na edukacijskoj platformi.",
+        "responses":["<b>Kolekcija ili repozitorij</b> obrazovnog sadržaja.", 
+            "<b>Vlastita web stranica</b> za objavu vlastitog obrazovnog sadržaja.",
+            "Sve navedeno mi odgovara."]
     },
     {
         "id":"5",
-        "name":"test",
-        "responses":["A", "B",
-            "C"]
+        "name":"Odaberite vrstu publike koja koristi Vaš obrazovni sadržaj.",
+        "responses":["<b>Široka publika</b>. Korištenje obrazovnog sadržaja je dozvoljeno svim zainteresiranim korisnicima.", 
+            "<b>Zatvorena zajednica</b>. Korištenje obrazovnog sadržaja je dozvoljeno isključivo izabranim korisnicima.",
+            "Sve navedeno mi odgovara."]
+    },
+    {
+        "id":"6",
+        "name":"Želite li omogućiti izravnu komunikaciju korisnika obrazovnog sadržaja s autorom sadržaja?",
+        "responses":["<b>Želim omogućiti izravnu komunikaciju</b> korisnika i autora sadržaja te komunikaciju kroz komentare na sadržaj.", 
+            "<b>Ne želim omogućiti izravnu komunikaciju</b> korisnika i autora sadržaja, već isključivo komunikaciju u obliku komentara na sadržaj.",
+            "Želim imati mogućnost izbora načina komunikacije unutar edukacijske platforme."]
+    },
+    {
+        "id":"7",
+        "name":"Odgovara li Vam stručno ocjenjivanje obrazovnog sadržaja i provjera sadržaja prije objave? (Provjeru izvršavaju stručnjaci ili tim platforme)",
+        "responses":["<b>Odgovara mi provjera</b> obrazovnog sadržaja prije objave.", 
+            "<b>Ne odgovara mi provjera</b> obrazovnog sadržaja prije objave.",
+            "Sve navedeno mi odgovara."]
     }
 ]

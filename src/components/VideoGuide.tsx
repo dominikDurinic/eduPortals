@@ -1,4 +1,4 @@
-import { Tutorial } from "../modules/Tutorial";
+import { Tutorial } from "../pages/Tutorial";
 
 function VideoGuide(props: { data: Tutorial[] | undefined; ind: number }) {
   const index = props.ind - 1;

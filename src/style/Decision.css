@@ -35,7 +35,7 @@
     width: 100%;
     height: 100px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     text-align: center;
 }
@@ -92,11 +92,19 @@
     background-color: var(--light-yellow);
 }
 
+.yellow-back{
+    background-color: var(--light-yellow);
+}
+
 .green-border{
     border: 4px solid var(--light-green);
 }
 
 .green-border:hover{
+    background-color: var(--light-green);
+}
+
+.green-back{
     background-color: var(--light-green);
 }
 
@@ -107,6 +115,16 @@
 .blue-border:hover{
     background-color: var(--light-blue);
 }
+
+.blue-back{
+    background-color: var(--light-blue);
+}
+
+.disabled-next{
+    pointer-events: none;
+    opacity: 0.5;
+}
+
 .quiz-decision{
     height: fit-content;
     padding: 0px;
@@ -182,6 +200,34 @@
 
 .tutor-link-btn:hover{
     background-color: var(--selected-red);
+}
+
+.again-icon{
+    width: 15px;
+}
+
+.again-btn{
+    width: 250px;
+    padding: 10px 0px;
+    border: none;
+    border-radius: 10px;
+    background-color: gainsboro;
+    color: black;
+    cursor: pointer;
+    align-items: center;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.again-btn:hover{
+    background-color: var(--back-gray);   
+}
+
+.similarPortals{
+    text-align: center;
 }
 
 @media only screen and (max-width: 1300px) {

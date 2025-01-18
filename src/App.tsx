@@ -1,10 +1,10 @@
 import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
 import "./style/App.css";
-import Home from "./modules/Home";
-import About from "./modules/About";
-import EduPortals from "./modules/EduPortals";
-import Decision from "./modules/Decision";
-import Tutorial from "./modules/Tutorial";
+import Home from "./pages/Home";
+import About from "./pages/About";
+import EduPortals from "./pages/EduPortals";
+import Decision from "./pages/Decision";
+import Tutorial from "./pages/Tutorial";
 
 function App() {
   return (
