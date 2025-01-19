@@ -48,7 +48,7 @@
         "id":4,
         "name":"Prijava korisnika u sustav",
         "description":["Za prijavu korisnika u sustav potrebno je odabrati Prijava u gornjem desnom kutu i izabrati jednu od ponuđenih opcija prijave. Mi ćemo koristiti AAI@EduHr korisnički račun za prijavu u sustav."],
-        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        "video":"https://player.vimeo.com/video/1048351944?h=94e869b40d"
     },
     {
         "id":5,
@@ -57,18 +57,18 @@
             "U padajućem izborniku odaberemo opciju \"Unos\" novog materijala. Pritiskom se otvara novi prozor na kojem se nalazi \"Obrazac za objavu sadržaja\".",
             "U obrascu postoji šest koraka koji se popunjavaju slijedno. Polja označena crvenom zvjezdicom potrebno je ispuniti dok preostala, ne označena nije potrebno.",
             "Na početku je potrebno odabrati materijal i učitati ga u sustav. Nakon toga slijedi popunjavanje osnovnih podataka o materijalu. Slijede odabir kategorije, vidljivost, podaci o plaćanju, dozvola za komentiranje i konačno objava materijala uz ispunjavanje suglasnosti s Uvjetima korištenja."],
-        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        "video":"https://player.vimeo.com/video/1048370457?h=c33eb0fcfb"
     },
     {
         "id":6,
         "name":"Pristup i pregled sadržaja",
         "description":["Nakon što smo uspješno objavili sadržaj na Edutorij, možemo mu pristupiti. Pregled objavljenog materijala sadrži opis koji smo ispunili prilikom objave kroz obrazac. Također materijal je moguće preuzeti, pretplatiti se, ocijeniti i komentirati."],
-        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        "video":"https://player.vimeo.com/video/1048371990?h=44b25b0360"
     },
     {
         "id":7,
         "name":"Komentari i ocjena",
         "description":["Kao što smo već i spomenuli, moguće je komentirati i ocijeniti materijal ako je to autor materijala dozvolio."],
-        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        "video":"https://player.vimeo.com/video/1048373678?h=a75dee542a"
     }
 ]
