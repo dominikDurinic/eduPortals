@@ -44,32 +44,32 @@
         "id":4,
         "name":"Prijava korisnika u sustav",
         "description":["Ako niste registrirani na Udemy potrebno je kreirati novi korisnički račun prateći polja obrasca. Nakon uspješne registracije potrebno se prijaviti u sustav unosom postavljene e-pošte i lozinke."],
-        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        "video":"https://player.vimeo.com/video/1048527952?h=97b6eb10c0"
     },
     {
         "id":5,
         "name":"Odabir sadržaja",
         "description":["Odabirom željenog sadržaja odnosno tečaja, otvara se novi prozor s detaljima o sadržaju (autor, kratki opis sadržaja, struktura tečaja, recenzije, ocjena, pregled kratkih isječaka tečaja i sl.). Osim informacija o samom tečaju, odabrani tečaj je moguće upisati. Upis može biti besplatan ili se naplaćuje."],
-        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        "video":"https://player.vimeo.com/video/1048539265?h=e5e5c070b0"
     },
     {
         "id":6,
         "name":"Pregled sadržaja i mogućnosti",
         "description":["Pokretanjem upisanog tečaja otvara se novi prozor s video prikazom tečaja, popisom sadržaja po lekcijama, te dodatnim mogućnostima. Svaki video je moguće pogledati više puta.",
             "Od dodatnih mogućnosti pruža se mogućnost upisa bilješki po minuti gledanja tečaja, postavljanje pitanja kroz Q&A autorima tečaja te ocjenjivanje i komentiranje sadržaja tečaja. Također je moguće pratiti vlastiti napredak kroz tečaj."],
-        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        "video":"https://player.vimeo.com/video/1048687879?h=df41bb2376"
     },
     {
         "id":7,
         "name":"Upravljačko sučelje",
         "description":["Postavljanje vlastitog sadržaja se odvija kroz sučelje \"Instructor dashboard\". Ovo sučelje predstavlja upravljački sustav za autora u kojem može izrađivati tečajeve, pratiti analitiku tečaja te odgovarati na postavljena pitanja polaznika tečaja."],
-        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        "video":"https://player.vimeo.com/video/1048689196?h=fb33679dde"
     },
     {
         "id":8,
         "name":"Izrada vlastitog sadržaja",
         "description":["Novi tečaj se izrađuje pritiskom na gumb \"Create Your Course\" unutar kartice \"Courses\". Pritiskom na gumb se otvara prozor u kojem je potrebno pratiti korake za izradu sadržaja. Nakon završetka koraka, otvara se obrazac koji je potrebno ispuniti s osnovnim informacijama o tečaju - opis, ciljana publika, postavljanje video materijala, cijena naplate sadržaja i dr.",
             "Nakon popunjavanja svih polja unutar obrasca, potrebno je predati tečaj na provjeru Udemy timu pritiskom na gumb \"Submit for Review\". Nakon odobrenja, izrađeni tečaj je moguće objaviti."],
-        "video":"https://player.vimeo.com/video/1042898030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        "video":"https://player.vimeo.com/video/1048708084?h=a7b4f6785f"
     }
 ]
