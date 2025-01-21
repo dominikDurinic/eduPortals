@@ -133,7 +133,7 @@ function About() {
                 alt="prirucnik"
               />
               <a
-                href="prirucnik_za_dijeljenje_znanja.pdf"
+                href="Projekt_EduPortals_Durinic_Dominik.pdf"
                 download={
                   "Prirucnik_edukacijski_portali_za_nastavnike_i_strucnjake"
                 }
